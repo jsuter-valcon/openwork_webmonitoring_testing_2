@@ -1,0 +1,21 @@
+.elementor-kit-5{--e-global-color-primary:#000000;--e-global-color-secondary:#F2B544;--e-global-color-text:#3B3B3D;--e-global-color-accent:#494949;--e-global-color-f66ebe7:#F7FBFD;--e-global-color-31b9c08:#F3F3F3;--e-global-color-021db1c:#494949;--e-global-typography-primary-font-family:"Lucida bright";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Palatino";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Palatino";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Palatino";--e-global-typography-accent-font-weight:500;font-family:"Palatino", Sans-serif;}.elementor-kit-5 a{color:#DA9921;font-family:"Palatino", Sans-serif;}.elementor-kit-5 h1{font-family:"Lucida bright", Sans-serif;font-size:3em;font-weight:600;text-transform:uppercase;line-height:1em;}.elementor-kit-5 h2{font-family:"Lucida bright", Sans-serif;font-weight:bold;line-height:1.3em;}.elementor-kit-5 h3{color:#DA9921;font-family:"Lucida bright", Sans-serif;font-size:1.5rem;font-weight:bold;}.elementor-kit-5 h4{color:#DA9921;font-family:"Lucida bright", Sans-serif;font-size:1.2rem;font-weight:bold;}.elementor-kit-5 h5{font-family:"Lucida bright", Sans-serif;}.elementor-kit-5 h6{font-family:"Lucida bright", Sans-serif;}.elementor-kit-5 button,.elementor-kit-5 input[type="button"],.elementor-kit-5 input[type="submit"],.elementor-kit-5 .elementor-button{color:#FFFFFF;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */@media only screen and (max-width: 600px) {.elementor-widget-heading .elementor-heading-title.elementor-size-xxl {font-size:36px!important;}} 
+
+.form-live .fc-form .form-page {
+    display: block !important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Lucida bright';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/02/Lucida-Bright-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Palatino';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/02/Palatino.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$.ajax({url:my_ajax_object.ajax_url,method:"GET",data:{action:"fetch_airtable_data",},success:function(response){},})})

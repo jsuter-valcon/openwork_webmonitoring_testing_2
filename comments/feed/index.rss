@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Yellow Brick Mortgages	</title>
+	<atom:link href="https://ybmortgages.co.uk/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ybmortgages.co.uk/</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Sep 2024 15:48:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=908 metric#misses=91 metric#hit-ratio=90.9 metric#bytes=328530 metric#prefetches=21 metric#store-reads=60 metric#store-writes=2 metric#store-hits=30 metric#store-misses=87 metric#sql-queries=22 metric#ms-total=3855.62 metric#ms-cache=194.05 metric#ms-cache-avg=3.1811 metric#ms-cache-ratio=5.0 -->

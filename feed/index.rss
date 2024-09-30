@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yellow Brick Mortgages</title>
+	<atom:link href="https://ybmortgages.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ybmortgages.co.uk/</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Sep 2024 15:48:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://ybmortgages.co.uk/wp-content/uploads/2021/02/9453-2.png</url>
+	<title>Yellow Brick Mortgages</title>
+	<link>https://ybmortgages.co.uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=948 metric#misses=89 metric#hit-ratio=91.4 metric#bytes=334241 metric#prefetches=19 metric#store-reads=60 metric#store-writes=3 metric#store-hits=30 metric#store-misses=85 metric#sql-queries=25 metric#ms-total=3133.57 metric#ms-cache=260.63 metric#ms-cache-avg=4.2037 metric#ms-cache-ratio=8.3 sample#redis-hits=11576639 sample#redis-misses=10609341 sample#redis-hit-ratio=52.2 sample#redis-ops-per-sec=60 sample#redis-evicted-keys=0 sample#redis-used-memory=173645848 sample#redis-used-memory-rss=39899136 sample#redis-memory-fragmentation-ratio=0.2 sample#redis-connected-clients=5 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=40319 -->
